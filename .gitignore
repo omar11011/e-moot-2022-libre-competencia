@@ -1,0 +1,6 @@
+.venv
+graphs/__pycache__
+graphs/application/__pycache__
+graphs/satisfaction/__pycache__
+graphs/tickets/__pycache__
+newrelic_agent.log
